@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,United States,"September 1, 2019",2010,PG-13,148 min,Sci-Fi & Action,A thief steals corporate secrets through dream-sharing technology.
+s2,TV Show,Stranger Things,Unknown,Millie Bobby Brown,United States,"July 15, 2016",2016,TV-14,4 Seasons,TV Sci-Fi & Fantasy,Kids uncover mysteries in a small town.
+s3,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,"November 27, 2019",2019,R,209 min,Crime Drama,A mob hitman reflects on his life.
+s4,TV Show,Money Heist,Alex Pina,Úrsula Corberó,Spain,"December 20, 2017",2017,TV-MA,5 Seasons,International TV Shows,A criminal mastermind plans the biggest heist.
+s5,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,"April 24, 2020",2020,R,117 min,Action & Adventure,A black ops mercenary fights for survival.
+s6,Movie,Roma,Alfonso Cuarón,Yalitza Aparicio,Mexico,"December 14, 2018",2018,R,135 min,Drama,A year in the life of a maid.
+s7,TV Show,The Crown,Peter Morgan,Olivia Colman,United Kingdom,"November 4, 2016",2016,TV-MA,6 Seasons,TV Dramas,The reign of Queen Elizabeth II.
+s8,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,PG-13,124 min,Thrillers,A mysterious force causes suicides.
+s9,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,"June 17, 2017",2017,TV-MA,3 Seasons,TV Mysteries,A family saga with time travel.
+s10,Movie,Red Notice,Rawson Marshall Thurber,Dwayne Johnson,United States,"November 12, 2021",2021,PG-13,118 min,Action & Comedy,An Interpol agent chases criminals.
